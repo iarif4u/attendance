@@ -1,6 +1,6 @@
 {
     "require": {
-        "nesbot/carbon": "^2.30"
+        "nesbot/carbon": "^3.8.4"
     },
     "require-dev": {
         "symfony/var-dumper": "^5.0"
